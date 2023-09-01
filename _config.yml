@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Keiichi"
-  avatar           : "/assets/images/keiichi_avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Leitor de Visual Novels da *07th Expansion*, dono da página do Facebook *Hinamizawa em Fúria* e desenhista nas horas vagas."
   location         : "Hinamizawa"
   email            :
