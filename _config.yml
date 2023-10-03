@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Keiichi"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Leitor de Visual Novels da *07th Expansion*, dono da página do Facebook *Hinamizawa em Fúria* e desenhista nas horas vagas."
+  bio              : "Leitor de Visual Novels da *07th Expansion*, dono da página do Facebook e Twitter *Hinamizawa em Fúria* e desenhista nas horas vagas."
   location         : "Hinamizawa"
   email            :
   links:
@@ -132,7 +132,7 @@ author:
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCXS8ErvOuZ74dIh7gYtbyMw"
     - label: "Pixiv"
-      icon: "fas fa-fw fa-pen"
+      icon: "fas fa-fw fa-paint-brush"
       url: "https://www.pixiv.net/en/users/75615398"
 
 # Site Footer
@@ -140,7 +140,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/HinamizawaF"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/HinamizawaF"
