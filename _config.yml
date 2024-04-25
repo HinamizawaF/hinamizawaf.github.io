@@ -131,9 +131,6 @@ author:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCXS8ErvOuZ74dIh7gYtbyMw"
-    - label: "Pixiv"
-      icon: "fas fa-fw fa-paint-brush"
-      url: "https://www.pixiv.net/en/users/75615398"
 
 # Site Footer
 footer:
